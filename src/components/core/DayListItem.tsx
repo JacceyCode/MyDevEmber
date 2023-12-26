@@ -20,9 +20,6 @@ export default DayListItem;
 const styles = StyleSheet.create({
   box: {
     backgroundColor: "#f9ede3",
-    // width: 300,
-    // height: 300,
-
     flex: 1,
     aspectRatio: 1,
 
