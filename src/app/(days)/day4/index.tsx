@@ -14,7 +14,7 @@ function DayDetailsScreen() {
       <MarkdownDisplay>{description}</MarkdownDisplay>
 
       <Link href={"/day4/animation"} asChild>
-        <Button title="Go to animation screen" />
+        <Button color={"green"} title="Go to animation screen" />
       </Link>
 
       <Link href={"/day4/splash"} asChild>
