@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "price": 150,
+    "title": "Modern Downtown Apartment",
+    "description": "A stylish and cozy apartment in the heart of San Francisco.",
+    "stars": 4,
+    "rating": 8.5,
+    "image": "https://example.com/apartment1.jpg"
+  },
+  {
+    "id": 2,
+    "latitude": 37.7821,
+    "longitude": -122.4036,
+    "price": 120,
+    "title": "Charming Victorian Studio",
+    "description": "A vintage studio with Victorian charm, close to popular attractions.",
+    "stars": 3.5,
+    "rating": 7.2,
+    "image": "https://example.com/apartment2.jpg"
+  },
+  {
+    "id": 3,
+    "latitude": 37.7594,
+    "longitude": -122.4271,
+    "price": 200,
+    "title": "Luxurious Penthouse Suite",
+    "description": "Experience luxury in this penthouse suite with breathtaking city views.",
+    "stars": 5,
+    "rating": 9.0,
+    "image": "https://example.com/apartment3.jpg"
+  },
+  {
+    "id": 4,
+    "latitude": 37.7892,
+    "longitude": -122.4107,
+    "price": 180,
+    "title": "Spacious Loft with Bay View",
+    "description": "A loft with a stunning view of the San Francisco Bay, perfect for relaxation.",
+    "stars": 4.5,
+    "rating": 8.7,
+    "image": "https://example.com/apartment4.jpg"
+  },
+  {
+    "id": 5,
+    "latitude": 37.7489,
+    "longitude": -122.4159,
+    "price": 130,
+    "title": "Cozy Garden Retreat",
+    "description": "Escape to a peaceful garden retreat in the midst of the bustling city.",
+    "stars": 4,
+    "rating": 8.0,
+    "image": "https://example.com/apartment5.jpg"
+  },
+  {
+    "id": 6,
+    "latitude": 37.7696,
+    "longitude": -122.4706,
+    "price": 170,
+    "title": "Urban Oasis with Rooftop Deck",
+    "description": "Discover an urban oasis with a private rooftop deck and city skyline views.",
+    "stars": 4.8,
+    "rating": 9.2,
+    "image": "https://example.com/apartment6.jpg"
+  }
+]
