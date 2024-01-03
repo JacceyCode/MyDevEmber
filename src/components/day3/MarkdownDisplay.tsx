@@ -14,7 +14,7 @@ export default MarkdownDisplay;
 
 const markdownStyles = StyleSheet.create({
   heading1: {
-    fontFamily: "InterBlack",
+    fontFamily: "InterBold",
     color: "#212020",
     marginTop: 15,
     marginBottom: 10,

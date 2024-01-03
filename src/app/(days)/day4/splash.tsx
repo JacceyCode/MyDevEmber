@@ -11,7 +11,7 @@ const SplashScreen = () => {
       <Stack.Screen options={{ headerShown: false }} />
       <LottieView
         ref={animation}
-        // autoPlay
+        autoPlay
         style={{ width: "80%", maxWidth: 400 }}
         source={require("@assets/lottie/netflix.json")}
       />
