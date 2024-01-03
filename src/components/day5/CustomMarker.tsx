@@ -1,7 +1,13 @@
 import { Text, View } from "react-native";
 import { Marker } from "react-native-maps";
+import apartments from "@assets/data/day5/apartments.json";
 
-const CustomeMarker = ({ apartment, onPress }) => {
+type CustomeMarker = {
+  apartment: (typeof apartments)[0];
+  onPress: () => void;
+};
+
+const CustomeMarker = ({ apartment, onPress }: CustomeMarker) => {
   return (
     <Marker
       onPress={onPress}

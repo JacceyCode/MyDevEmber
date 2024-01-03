@@ -13,7 +13,7 @@ import {
   AmaticSC_400Regular,
   AmaticSC_700Bold,
 } from "@expo-google-fonts/amatic-sc";
-import * as SplashScreen from "expo-splash-screen";
+// import * as SplashScreen from "expo-splash-screen";
 import AnimatedSplashScreen from "@/components/day4/AnimatedSplashScreen";
 
 // SplashScreen.preventAutoHideAsync();
