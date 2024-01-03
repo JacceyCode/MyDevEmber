@@ -1,6 +1,6 @@
+import { useRef } from "react";
 import { Button, StyleSheet, View } from "react-native";
 import LottieView from "lottie-react-native";
-import { useRef } from "react";
 
 const AnimationScreen = () => {
   const animation = useRef<LottieView>(null);
